@@ -1,7 +1,5 @@
 # Getting Started
 
-Guide to setup the environment for GitHub workflow.
-
 ## *To make your membership visible on your public profile*
 <p align="center">
 <a href="https://github.com/orgs/ENTC18/people">

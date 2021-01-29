@@ -50,6 +50,74 @@ You can execute commands by typing the required `command` in front of the `$` si
 
 ---
 
-## *Interacting with the Platform*
+# *Interacting with the Platform*
 
-*To be continued...*
+## Git: Configuration
+
+Open the Git Bash on your desktop. Execute following commands through it by typing them in the bash.
+
+#### Introducing you to the Git workflow
+```
+git config --global user.name "Replace this with Your Name"
+git config --global user.email "Replace this with the email you used to create the GitHub account"
+
+```
+
+#### Introducing your editor to the Git workflow
+
+```
+//for atom users
+git config --global core.editor atom
+
+//for VS code users
+git config --global core.editor code
+
+```
+
+### Working on a project
+
+The web page you are currently in is called a "Repository"; in short a "repo". This is where all the files related to a particular project are located. Repository's name is the phrase after the forward slash of this organization's name. `ENTC18/getting-started` as you can see this repo's name is `getting-started`. This name is unique and two repos can not have the same name. To work on a project you first need to get a copy of this repo to your local machine. In GitHub workflow this process is known as `Cloning a repository`.
+
+#### Cloning a Repository
+
+1. Navigate to anywhere you wish to have the copy of this repository on your local machine.
+2. Open the `Git Bash` there as mentioned previously.
+3. Type the following command.
+
+```
+// URL at the third position can be found as depicted in the following figure
+git clone https://github.com/ENTC18/getting-started.git
+
+```
+<p align="center">
+<a href="https://github.com/orgs/ENTC18/people/">
+<img width="700" src="https://github.com/ENTC18/getting-started/blob/main/Figures/clone.png" align="center"/>
+</a>
+</p>
+
+#### Make changes to the repository
+
+Once the cloning process is completed you will have an exact copy of this repository as a folder, named `getting-started`.
+
+1. Now close the `Git Bash` CLI you opened previously.
+2. Then open the newly created folder and you can see what is in there. All the files related to the project!
+3. Open the `Git Bash` there(inside the `getting-started` folder) and do not close it until you finish all the work.
+4. Type the command `git pull` in the bash. **This is a MUST! and Need an Internet Connection**
+5. If your local copy is up to dated with the original repo in the GitHub. You will receive a message saying "Already up to date."; Otherwise the necessary changes will be automatically downloaded and merged with your existing files.
+6. Only Now, you may change the files. You can do anything you wish with them. File Create, Read, Update and Delete.
+7. Once you have done the necessary changes you need to upload them to the main repository. **This is a MUST! and Need an Internet Connection**
+8. Type following commands **in the given order** in the bash.
+
+```
+// 1. The dot in the end after a space is essential
+
+git add .
+git commit -m "your message indicating the changes you made."
+git push origin main
+
+```
+<p align="center">
+ **Every time when you need to do a change to a repository. Simply follow the steps starting from 3. That's it!**
+</p>
+
+### Note : In case of an exception contact one of our administrators(shown as owner in the People Tab)

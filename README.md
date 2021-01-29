@@ -6,7 +6,7 @@
 <img width="700" src="https://github.com/ENTC18/getting-started/blob/main/Figures/make-it-public.png" align="center"/>
 </a>
 
-## *Set up the environment for GitHub workflow (Images are linked with the required sites. Just click on them to visit)*
+## *Set up the environment for GitHub workflow (Images are linked with the required sites. Just right click on them and choose `open link in new tab` to visit)*
 
 ### Step1: Install one of the editors given below. If you have already installed one skip to the next step.
 
@@ -27,11 +27,10 @@
 
 This is the tool we are going to use to interact with almost everything related to this platform. Keep the default configurations as they are at the installation process. Anyway you will need to choose the editor you installed previously at one point in the installtion.
 
+<p align="center">
 <a href="https://gitforwindows.org/">
-<img width="500" src="https://github.com/ENTC18/getting-started/blob/main/Figures/git-for-windows.JPG" align="center"/>
+<img width="700" src="https://github.com/ENTC18/getting-started/blob/main/Figures/git-for-windows.JPG" align="center"/>
 </a>
-
-## *Interacting with the Platform*
 
 After successful completion of the above steps now you can open the `Git Bash` the CLI for handling GitHub workflow, inside any directory(folder) in your PC by right clicking on a free area and selecting the `Git Bash Here`. As shown in the figure.
 
@@ -46,3 +45,7 @@ You can execute commands by typing the required `command` in front of the `$` si
 <a href="https://github.com/orgs/ENTC18/people/">
 <img width="700" src="https://github.com/ENTC18/getting-started/blob/main/Figures/bash.png" align="center"/>
 </a>
+
+## *Interacting with the Platform*
+
+*To be continued...*

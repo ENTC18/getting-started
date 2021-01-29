@@ -6,6 +6,8 @@
 <img width="700" src="https://github.com/ENTC18/getting-started/blob/main/Figures/make-it-public.png" align="center"/>
 </a>
 
+---
+
 ## *Set up the environment for GitHub workflow (Images are linked with the required sites. Just right click on them and choose `open link in new tab` to visit)*
 
 ### Step1: Install one of the editors given below. If you have already installed one skip to the next step.
@@ -45,6 +47,8 @@ You can execute commands by typing the required `command` in front of the `$` si
 <a href="https://github.com/orgs/ENTC18/people/">
 <img width="700" src="https://github.com/ENTC18/getting-started/blob/main/Figures/bash.png" align="center"/>
 </a>
+
+---
 
 ## *Interacting with the Platform*
 

@@ -1,4 +1,7 @@
-# Hey there, 👋 Let's Get Started. 😛
+
+
+ <h2 align="center">Hey there, 👋 Let's Get Started.😛</h2>
+<p align="center"><a href="https://github.com/ENTC18"><img width="200px" src="https://github.com/ENTC18/getting-started/blob/main/ENTC18.png" align="center"/></a>
 
 # *Set up the environment for GitHub workflow (Images are linked with the required sites. Just right click on them and choose `open link in new tab` to visit)*
 

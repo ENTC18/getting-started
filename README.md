@@ -1,8 +1,12 @@
+<!--Author:   Bimalka Piyaruwan-->
+<!--GitHub:   https://github.com/bimalka98-->
+<!--Created:  29 January 2021-->
 
-
- <h2 align="center">Hey there, 👋 Let's Get Started.😛</h2>
+<h2 align="center">Hey there, 👋 Let's Get Started.😛</h2>
 <p align="center"><a href="https://github.com/ENTC18"><img width="150px" src="https://github.com/ENTC18/getting-started/blob/main/ENTC18.gif" align="center"/></a>
- <h3 align="center">Taking the Collaboration, Efficiency and Productivity to the Next Level</h3>
+<h2 align="center">Taking the Collaboration, Efficiency and Productivity to the Next Level</h2>
+ 
+ ---
  
 # *Set up the environment for GitHub workflow (Images are linked with the required sites. Just right click on them and choose `open link in new tab` to visit)*
 

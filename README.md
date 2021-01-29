@@ -33,7 +33,7 @@ This is the tool we are going to use to interact with almost everything related 
 
 ## *Interacting with the Platform*
 
-After successful completion of the above steps now you can open the `Git Bash` the CLI, inside any directory(folder) in your PC by right clicking on a free area and selecting the `Git Bash Here`. As shown in the figure.
+After successful completion of the above steps now you can open the `Git Bash` the CLI for handling GitHub workflow, inside any directory(folder) in your PC by right clicking on a free area and selecting the `Git Bash Here`. As shown in the figure.
 
 <p align="center">
 <a href="https://github.com/orgs/ENTC18/people/">

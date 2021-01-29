@@ -1,4 +1,4 @@
-## Getting Started
+# Getting Started 😛
 
 ## *To make your membership visible on your public profile*
 <p align="center">

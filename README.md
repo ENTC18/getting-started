@@ -1,8 +1,9 @@
 
 
  <h2 align="center">Hey there, 👋 Let's Get Started.😛</h2>
-<p align="center"><a href="https://github.com/ENTC18"><img width="200px" src="https://github.com/ENTC18/getting-started/blob/main/ENTC18.gif" align="center"/></a>
-
+<p align="center"><a href="https://github.com/ENTC18"><img width="150px" src="https://github.com/ENTC18/getting-started/blob/main/ENTC18.gif" align="center"/></a>
+ <h3 align="center">Taking the Collaboration, Efficiency and Productivity to the Next Level</h3>
+ 
 # *Set up the environment for GitHub workflow (Images are linked with the required sites. Just right click on them and choose `open link in new tab` to visit)*
 
 ## Step1: Install one of the editors given below. If you have already installed one skip to the next step.

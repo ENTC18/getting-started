@@ -38,16 +38,14 @@ This is the tool we are going to use to interact with almost everything related 
 Now you can open the `Git Bash` the CLI for handling GitHub workflow, inside any directory(folder) in your PC by right clicking on a free area and selecting the `Git Bash Here`. As shown in the figure.
 
 <p align="center">
-<a href="https://github.com/orgs/ENTC18/people/">
 <img width="700" src="https://github.com/ENTC18/getting-started/blob/main/Figures/right-click.png" align="center"/>
-</a>
+
 
 You can execute commands by typing the required `git command` in front of the `$` sign(active line) in the Bash.
 
 <p align="center">
-<a href="https://github.com/orgs/ENTC18/people/">
 <img width="700" src="https://github.com/ENTC18/getting-started/blob/main/Figures/bash.png" align="center"/>
-</a>
+
 
 ---
 
@@ -95,10 +93,8 @@ git clone https://github.com/ENTC18/getting-started.git
 
 ```
 <p align="center">
-<a href="https://github.com/orgs/ENTC18/people/">
 <img width="700" src="https://github.com/ENTC18/getting-started/blob/main/Figures/clone.png" align="center"/>
-</a>
-</p>
+
 
 ### Make changes to the repository's files
 

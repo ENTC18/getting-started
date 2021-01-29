@@ -114,7 +114,7 @@ git push origin main
 
 ```
 
- **Every time when you need to do a change to a repository. Simply follow the steps starting from 3. That's it!**
+## *Every time when you need to do a change to a repository. Simply follow the steps starting from 3. That's it!*
 
 ### Note : In case of an exception contact one of our administrators(shown as owner in the People Tab)
 

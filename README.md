@@ -110,8 +110,9 @@ Once the cloning process is completed you will have an exact copy of this reposi
 8. Type following commands **in the given order** in the bash.
 
 ```
-// 1. The dot in the end after a space in the first command is essential
+// 1. The dot in the end after a space in the second command is essential
 
+git pull
 git add .
 git commit -m "your message indicating the changes you made."
 git push origin main

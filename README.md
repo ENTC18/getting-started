@@ -131,3 +131,16 @@ git push origin main
 <a href="https://github.com/orgs/ENTC18/people/">
 <img width="700" src="https://github.com/ENTC18/getting-started/blob/main/Figures/make-it-public.png" align="center"/>
 </a>
+
+## Upgrading into ‘GitHub Pro’ and Activating the ‘GitHub Student Developer Pack’ using UOM email address
+
+Through applying for the “GitHub Student Benefits” using your institution email address, you can upgrade your GitHub Free account into GitHub Pro and at the same time, you can activate the GitHub Student Developer Pack which includes **free access to the best developer tools in one place**. Some of them are given below.
+
+* Free GitHub Pro while you are a student.
+* Free access to 25+ Microsoft Azure cloud services plus $100 in Azure credit.
+* Professional desktop IDEs: IntelliJ IDEA, PyCharm, and more.
+* Unity Student Plan free while you are a student.
+* Free 30-day “One Month” subscription
+* And many more…
+
+Click [here](https://bimalka98.github.io/GitHub-Student-Developer-Pack) to view the instructions.😉

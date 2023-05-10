@@ -1,0 +1,22 @@
+name: Push to Org Repo
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        ref: ${{ github.ref }}
+        path: 'private-repo'
+        path-exclude: '.github/**'
+    - name: Push to Org Repo
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.PAT }}
+        repository: ENTC18/getting-started

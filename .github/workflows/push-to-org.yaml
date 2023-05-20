@@ -17,7 +17,7 @@ jobs:
           git config --global user.email "bimalkapiyaruwan1998322@gmail.com"
       - name: Add remote and push to organization repo
         run: |
-          git remote add org_repo https://github.com/ENTC18/getting-started
+          git remote add org_repo https://github.com/ENTC18/getting-started.git
           git push org_repo main
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}

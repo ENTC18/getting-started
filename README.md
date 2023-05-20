@@ -1,6 +1,7 @@
 <!--Author:   Bimalka Piyaruwan-->
 <!--GitHub:   https://github.com/bimalka98-->
 <!--Created:  29 January 2021-->
+<!--Updated:  20 May 2023-->
 
 <h2 align="center">Hey there, 👋 Let's Get Started.😛</h2>
 <p align="center"><a href="https://github.com/ENTC18"><img width="150px" src="https://github.com/ENTC18/getting-started/blob/main/ENTC18.gif" align="center"/></a>

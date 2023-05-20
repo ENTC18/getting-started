@@ -1,4 +1,4 @@
-name: Push to Org Repo
+name: Push to Organization Repo
 
 on:
   push:
@@ -9,14 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-      with:
-        ref: ${{ github.ref }}
-        path: 'private-repo'
-        path-exclude: '.github/**'
-    - name: Push to Org Repo
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.PAT }}
-        repository: ENTC18/getting-started
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Git
+        run: |
+          git config --global user.name "Bimalka Piyaruwan"
+          git config --global user.email "bimalkapiyaruwan1998322@gmail.com"
+      - name: Add remote and push to organization repo
+        run: |
+          git remote add org_repo https://github.com/ENTC18/getting-started
+          git push org_repo main
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
